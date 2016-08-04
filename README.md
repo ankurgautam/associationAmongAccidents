@@ -628,14 +628,11 @@ lhs                            rhs                                             s
 
 ##Conclusions
 
-Association Rules Mining is a powerful and flexible machine learning technique that can be used to find
-hidden patterns and relationships in large datasets.
-```
 Looking at the output of the top 40 rules, we see patterns of conditions that frequently occur together. For
 example " {Weather_Conditions=2} => {Accident_Severity=3} " is an interesting pattern since it tells us
 that when a given weather condition exists, there is a specific severity of accident that occurs
 
-##Conclusions
-
 Association Rules Mining is a powerful and flexible machine learning technique that can be used to find
 hidden patterns and relationships in large datasets.
+
+
