@@ -624,9 +624,7 @@ lhs                            rhs                                             s
 39 {Accident_Severity=2}       => {Road_Surface_Conditions=1}                       0.114  0.6195652 0.9741591
 40 {Accident_Severity=2}       => {Light_Conditions=4}                              0.116  0.6304348 0.9789360
 ```
-Looking at the output of the top 40 rules, we see patterns of conditions that frequently occur together. For
-example " {Weather_Conditions=2} => {Accident_Severity=3} " is an interesting pattern since it tells us
-that when a given weather condition exists, there is a specific severity of accident that occurs
+
 
 ##Conclusions
 
